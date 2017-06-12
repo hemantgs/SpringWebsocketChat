@@ -1,0 +1,5 @@
+com\spring\boot\controller\WebSocketConfig.class
+com\spring\boot\controller\ChatController.class
+com\spring\boot\repository\MessageRepository.class
+com\spring\boot\Runner.class
+com\spring\boot\model\MessageModel.class
